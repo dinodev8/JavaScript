@@ -1,6 +1,7 @@
 body{
   height: 100%;
   text-align: center;
+  background-color: rgb(176, 255, 255);
   background-image: url("https://images.unsplash.com/photo-1472067662551-b6bc9eb3091a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JheSUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
   background-size: cover;
 }
